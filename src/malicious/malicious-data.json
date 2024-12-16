@@ -1,5 +1,1781 @@
 [
     {
+        "title": "py-vord",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesxt",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cotrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requstss",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-coird",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pilliow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsterccloudclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requestr",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-c0red",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colorram",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesks",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramws",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requeksts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corddd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclienet",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramwa",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclenit",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramaz",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corwd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesqs",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cod",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utilss",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudcluodclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cxrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "biip-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bop-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqeyst",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "piplow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pjllow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cofrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-uitls",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cofd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requas",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requetsa",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cocd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-coad",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudcliendt",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corf",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cortd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmosterclouclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colorahma",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclieet",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cordq",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudcliant",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colorhrama",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclinet",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pycordwd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pilloq",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utjls",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requzsts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bibp-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "cilorama",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cowrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-uttils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utlils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requssts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cordv",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmostercloudclienet",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqoests",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-codrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bup-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pycjrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pilliw",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclieent",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclinent",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cotd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cordr",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pilloa",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqeuste",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramqa",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-u8ls",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudcliend",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colorayma",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requekts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-uutils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corad",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "clolorama",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cojrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramal",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-c0dd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bipp-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pilloo",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramia",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pillkw",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requewsts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudcliient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramae",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requksts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pollow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramxs",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cird",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclientt",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclent",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesgt",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "corlorama",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colorm",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramka",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corx",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-c0crd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-coed",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmostercloudclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-ckord",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsstercloudcliennt",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utilz",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercoudclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudcliet",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cordw",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-coordd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cordf",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colprama",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsterclouidclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pullow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-util",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramna",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utisl",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corde",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colormma",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsterclouddclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cordd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cordx",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramu",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "p8llow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-co4d",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqeustz",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colomara",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsterclouddlient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramxa",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramah",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bips-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colorramma",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "cloroma",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pycordde",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requeits",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "p9llow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesrts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pirlow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requxsts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloroama",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utilds",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cwrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesxs",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercouldclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-crodd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclenet",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-c9rd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-coqrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pillox",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-crd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-c0ard",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pill9w",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cdord",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramza",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclouidclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqeustx",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requeqsts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudcliennt",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqquest",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colorame",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cobrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercloudclien",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsterrcloudclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corxd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requyests",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corg",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-uils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utile",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesxts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsstercloudclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramzs",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pi-cord",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramqs",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "p-cord",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bpi-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramo",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cpord",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colouorama",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cyrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corid",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requesuts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmostercloudclinet",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmostercloudclieent",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requetsq",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cprd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requnests",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utiles",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "requetsts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqeist",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqsests",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-corfd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonstercludclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqjuests",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pilkow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsterclouudclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pillo2",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-czrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bip-utilos",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "oillow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-cozd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "colaroma",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "piolow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-ckrd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "coloramoo",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-coerd",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "biup-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "bupi-utils",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "pilpow",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "py-xord",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmonsterclouclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqeosts",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "capmoneercloudclient",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "reqzests",
+        "description": "",
+        "date_published": "2024-03-26",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "lsbs",
+        "description": "",
+        "date_published": "2024-03-19",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "packagerandomattackertest",
+        "description": "",
+        "date_published": "2024-03-16",
+        "platform": "npm",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "qaxtest-httpx",
+        "description": "",
+        "date_published": "2024-02-21",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "aio-http-proxy-support",
+        "description": "",
+        "date_published": "2024-02-18",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "lol-pizda",
+        "description": "",
+        "date_published": "2024-02-18",
+        "platform": "npm",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "analysis-studio-components",
+        "description": "",
+        "date_published": "2024-02-18",
+        "platform": "npm",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "oauth-less",
+        "description": "",
+        "date_published": "2024-02-06",
+        "platform": "pypi",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "samsungads-publisher-portal-authorizer",
+        "description": "",
+        "date_published": "2024-01-29",
+        "platform": "npm",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "teleport-ui - PII stealer",
+        "description": "",
+        "date_published": "2023-11-28",
+        "platform": "npm",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
+        "title": "react-intl-cdo - PII stealer",
+        "description": "",
+        "date_published": "2023-11-28",
+        "platform": "npm",
+        "downloads_text": "<1k total downloads",
+        "type": "malicious"
+    },
+    {
         "title": "flophttp",
         "description": "",
         "date_published": "2024-09-01",
